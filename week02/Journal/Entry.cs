@@ -13,10 +13,15 @@ public class Entry
         _date = date;
 
     }
-    
-    
+
+
     public void displayEntryData()
     {
         Console.WriteLine($"{_question}\n{_response}\n{_date}");
+    }
+
+    public string SaveFormat()
+    {
+        return $"{_date}|{_question}|{_response}";
     }
 }

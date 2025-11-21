@@ -1,0 +1,72 @@
+[
+  {
+    "Book": "John",
+    "Chapter": 3,
+    "StartVerse": 16,
+    "EndVerse": 16,
+    "Text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+  },
+  {
+    "Book": "Proverbs",
+    "Chapter": 3,
+    "StartVerse": 5,
+    "EndVerse": 6,
+    "Text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+  },
+  {
+    "Book": "Philippians",
+    "Chapter": 4,
+    "StartVerse": 13,
+    "EndVerse": 13,
+    "Text": "I can do all this through him who gives me strength."
+  },
+  {
+    "Book": "Psalm",
+    "Chapter": 23,
+    "StartVerse": 1,
+    "EndVerse": 4,
+    "Text": "The Lord is my shepherd, I lack nothing. He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul. He guides me along the right paths for his name's sake. Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."
+  },
+  {
+    "Book": "Matthew",
+    "Chapter": 11,
+    "StartVerse": 28,
+    "EndVerse": 30,
+    "Text": "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+  },
+  {
+    "Book": "Romans",
+    "Chapter": 8,
+    "StartVerse": 28,
+    "EndVerse": 28,
+    "Text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+  },
+  {
+    "Book": "1 Corinthians",
+    "Chapter": 13,
+    "StartVerse": 4,
+    "EndVerse": 7,
+    "Text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres."
+  },
+  {
+    "Book": "Joshua",
+    "Chapter": 1,
+    "StartVerse": 9,
+    "EndVerse": 9,
+    "Text": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+  },
+  {
+    "Book": "Isaiah",
+    "Chapter": 40,
+    "StartVerse": 31,
+    "EndVerse": 31,
+    "Text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+  },
+  {
+    "Book": "Jeremiah",
+    "Chapter": 29,
+    "StartVerse": 11,
+    "EndVerse": 11,
+    "Text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+  }
+]
