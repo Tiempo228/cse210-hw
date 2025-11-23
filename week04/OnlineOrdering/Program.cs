@@ -36,7 +36,7 @@ class Program
 
         // Display order information
         DisplayOrder(order1);
-        Console.WriteLine("\n" + new string('=', 50) + "\n");
+        Console.WriteLine("\n" + new string('=', 40) + "\n");
         DisplayOrder(order2);
     }
 
