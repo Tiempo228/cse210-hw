@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Online Ordering System");
+        Console.WriteLine("Online Ordering System");   
         Console.WriteLine("======================\n");
 
         // Create addresses
@@ -20,7 +20,7 @@ class Program
         Product product2 = new Product("Wireless Mouse", "MSE2001", 25.50, 2);
         Product product3 = new Product("USB-C Cable", "CBL3001", 15.75, 3);
         Product product4 = new Product("Monitor", "MON4001", 299.99, 1);
-        Product product5 = new Product("Keyboard", "KEY5001", 79.99, 1);
+        Product product5 = new Product("Keyboard", "KEY5001", 79.99, 1);   
 
         // Create first order (USA customer)
         Order order1 = new Order(customer1);
